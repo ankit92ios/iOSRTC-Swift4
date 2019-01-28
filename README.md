@@ -2,6 +2,9 @@
 iOSRTC-master(https://github.com/digixtechnology/iOSRTC) copy for Swift 4.1 (Xcode: 9.3+) compiled.
 
 Code is compiling and running but not working.
+
+NOTE: Right now codd is not compiling for Xcode 10+. I am working on it. Update will be available soon.
+
 to make it work.. 
 
 Change the code in
@@ -21,4 +24,5 @@ socket.io-client-swift version 13 has big changes.
 
 Reference : 
 https://github.com/digixtechnology/iOSRTC
+
 https://github.com/socketio/socket.io-client-swift

@@ -3,9 +3,7 @@ iOSRTC-master(https://github.com/digixtechnology/iOSRTC) copy for Swift 4.1 (Xco
 
 Code is compiling and running but not working.
 
-NOTE: Right now codd is not compiling for Xcode 10+. I am working on it. Update will be available soon.
-
-to make it work.. 
+To make it work.. 
 
 Change the code in
 SocketIOManagerCall.m
